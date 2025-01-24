@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f67f49ba.css",
+    "main.js": "/static/js/main.3bd60e9a.js",
+    "static/js/453.fe7ba390.chunk.js": "/static/js/453.fe7ba390.chunk.js",
+    "static/media/IMG_96634.gif": "/static/media/IMG_96634.be975680b33de2ca3d64.gif",
+    "static/media/fore.png": "/static/media/fore.ef2f12376d6dd6fd03de.png",
+    "static/media/one.png": "/static/media/one.6ff9e54a7724d79b40b9.png",
+    "static/media/three.png": "/static/media/three.a8abbfa78de8533d9f24.png",
+    "static/media/two.png": "/static/media/two.74740c4375a31cd5faaf.png",
+    "static/media/de_trump.png": "/static/media/de_trump.b2b8516a43be6de54e5d.png",
+    "static/media/SF-Pro-Text-Regular.otf": "/static/media/SF-Pro-Text-Regular.6a39aa208dfcb99af10a.otf",
+    "static/media/tramp_up.png": "/static/media/tramp_up.69e1a49dc99a10ab1560.png",
+    "static/media/card.png": "/static/media/card.2bd08803da143a2a24ac.png",
+    "static/media/x.png": "/static/media/x.2ef64c29d3ccb91c96f0.png",
+    "static/media/discord.png": "/static/media/discord.2467ef8ec573c84a89db.png",
+    "index.html": "/index.html",
+    "main.f67f49ba.css.map": "/static/css/main.f67f49ba.css.map",
+    "main.3bd60e9a.js.map": "/static/js/main.3bd60e9a.js.map",
+    "453.fe7ba390.chunk.js.map": "/static/js/453.fe7ba390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f67f49ba.css",
+    "static/js/main.3bd60e9a.js"
+  ]
+}
